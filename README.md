@@ -38,18 +38,19 @@ GRAF
 
 The currently planned framework of the GRAF application will include:
 
-|Category|                |Technology|
-|Frontend|                |[To be determined]|
-|Backend|                 |[To be determined]|
-|Programming Languange|   |[To be determined]|
-|Geospatial Processing|   |[To be determined]|
-|File Parsing|            |[To be determined]|
-|File Transformation|     |[To be determined]|
-|Database|                |[To be determined]|
-|API/Communication|       |[To be determined]|
-|Version Control|         |Git & GitHub|
-|Development Environment| |[To be determined]|
-|Testing & Validation|    |[To be determined]|
+|Category | Technology|
+|---|---|
+|Frontend | [To be determined]|
+|Backend | [To be determined]|
+|Programming Languange | [To be determined]|
+|Geospatial Processing | [To be determined]|
+|File Parsing | [To be determined]|
+|File Transformation | [To be determined]|
+|Database | [To be determined]|
+|API/Communication | [To be determined]|
+|Version Control | Git & GitHub|
+|Development Environment | [To be determined]|
+|Testing & Validation | [To be determined]|
 
 ## 6. Project Structure
 
@@ -69,11 +70,12 @@ project-name/
 ## 7. Development Team
 
 | Name | Role / Responsibility |
-| Reksa Okta Ramadhani|         [TBD] |
-| Firzatullah Al-Ghifari|       [TBD] |
-| Mustika Gangga Nirmala |      [TBD] |
-| Anugrah Arya Muhajir |        [TBD] |
-| Nurachman Alwy Sumintardja |  [TBD] |
+|---|---|
+| Reksa Okta Ramadhani| [TBD] |
+| Firzatullah Al-Ghifari| [TBD] |
+| Mustika Gangga Nirmala | [TBD] |
+| Anugrah Arya Muhajir | [TBD] |
+| Nurachman Alwy Sumintardja | [TBD] |
 
 ## 8. Development Guidelines
 

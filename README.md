@@ -28,7 +28,7 @@ The application is expected to include these following features:
 GRAF
 ├── File input
 ├── Reading & Parsing
-├── Data Normalization
+├── Data Standardization
 ├── Targeted Transformation
 ├── Data Validation
 └── Output
@@ -59,6 +59,7 @@ The repository is organised into the following directories:
 ```
 project-name/
 ├── README.md
+├──Standardization/
 ├── docs/
 ├── frontend/
 ├── backend/
